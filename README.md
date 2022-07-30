@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rahuldas-404
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m @rahuldas-404, Rahul
+- 👀 I’m interested in Computer Science & Technology
+- 🌱 I’m currently learning javascript & DSA using JAVA or C
+- 📫 How to reach me : Email= rd893918@gmail.com
 
 <!---
 rahuldas-404/rahuldas-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
