@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahuldas-404, Rahul
-- 👀 I’m interested in Computer Science & Technology
+- 👀 I’m interested in Computer Science & Technologies 
 - 🌱 I’m currently learning javascript & DSA using JAVA or C
 - 📫 How to reach me : Email= rd893918@gmail.com
 
