@@ -1,5 +1,4 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 <h1 align="center">Hi 👋, I'm Rahul Kumar Das</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
@@ -11,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning **ReactJS**
 
 - 📝 I regularly write articles on [https://medium.com/@rd893918](https://medium.com/@rd893918)
