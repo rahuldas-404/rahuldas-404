@@ -38,7 +38,6 @@
 <br />
 <br /> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuldas-404&show_icons=true&locale=en" alt="rahuldas-404" /></p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldas-404&theme=algolia" alt="candida18"  /></p>
