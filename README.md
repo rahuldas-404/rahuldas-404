@@ -12,7 +12,7 @@
 
 
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning ** ReactJS **
 
 - 📝 I regularly write articles on [https://medium.com/@rd893918](https://medium.com/@rd893918)
 
