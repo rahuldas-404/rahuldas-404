@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-kumar-das-52501a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-das-52501a229/" height="30" width="40" /></a>
-<a href="https://instagram.com/thatguyonhisway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatguyonhisway" height="30" width="40" /></a>
+<a href="https://instagram.com/rahulkd_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatguyonhisway" height="30" width="40" /></a>
 <a href="https://medium.com/@rd893918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rd893918" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/nudnik_junkie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nudnik_junkie" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/rahul_kd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_kd" height="30" width="40" /></a>
