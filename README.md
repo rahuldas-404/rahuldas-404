@@ -13,7 +13,7 @@
 
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - Vist my Portfolio WebSite [PortFolio](https://659c60bda051c223c85d1f7b--incredible-cheesecake-5b2cec.netlify.app/)
 
